@@ -211,3 +211,115 @@ Received Import Request.
 Start importing Assets/BIN/color.mat using Guid(2355b1b42c49e3c41b62327d34f25a4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '444a7fa48da8e5ee0688fc6a6e794dc7') in 0.700709 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 3068.279434 seconds.
+  path: Assets/BIN/Test.asset
+  artifactKey: Guid(2405c5b50195f66468abfd396ce612d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BIN/Test.asset using Guid(2405c5b50195f66468abfd396ce612d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '713b69086eff89df910dc5d89ca6647b') in 0.063518 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.623894 seconds.
+  path: Assets/BIN/Test.asset
+  artifactKey: Guid(2405c5b50195f66468abfd396ce612d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BIN/Test.asset using Guid(2405c5b50195f66468abfd396ce612d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '631762bb0035394bb15eed7adb078b56') in 0.002914 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.945542 seconds.
+  path: Assets/BIN/Test.asset
+  artifactKey: Guid(2405c5b50195f66468abfd396ce612d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BIN/Test.asset using Guid(2405c5b50195f66468abfd396ce612d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4eb9b6648a658b1cbcc2c72e5b0e92a1') in 0.001791 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.493998 seconds.
+  path: Assets/BIN/Test.asset
+  artifactKey: Guid(2405c5b50195f66468abfd396ce612d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BIN/Test.asset using Guid(2405c5b50195f66468abfd396ce612d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12698d9c6730208318cd0851915c3bf3') in 0.001803 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.506434 seconds.
+  path: Assets/BIN/Test.asset
+  artifactKey: Guid(2405c5b50195f66468abfd396ce612d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BIN/Test.asset using Guid(2405c5b50195f66468abfd396ce612d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43eee53af732a78deb6b2dcdb54c2e05') in 0.003255 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.586474 seconds.
+  path: Assets/BIN/Test.asset
+  artifactKey: Guid(2405c5b50195f66468abfd396ce612d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BIN/Test.asset using Guid(2405c5b50195f66468abfd396ce612d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf7d3512918f26ba7769d84baccc9dac') in 0.001461 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 1.034959 seconds.
+  path: Assets/BIN/Test.asset
+  artifactKey: Guid(2405c5b50195f66468abfd396ce612d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BIN/Test.asset using Guid(2405c5b50195f66468abfd396ce612d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2036779e0df6e71ab8f3dc08cb21ca1') in 0.008888 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 3.001646 seconds.
+  path: Assets/BIN/newwit.asset
+  artifactKey: Guid(b4eb162a442d7bb4ea22b6f6e08cd0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BIN/newwit.asset using Guid(b4eb162a442d7bb4ea22b6f6e08cd0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '697fc8c49a9e03e5ff56413b15db4c0d') in 0.003820 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.425936 seconds.
+  path: Assets/BIN/newwit.asset
+  artifactKey: Guid(b4eb162a442d7bb4ea22b6f6e08cd0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BIN/newwit.asset using Guid(b4eb162a442d7bb4ea22b6f6e08cd0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '747327548b4eadfdd0b0c05d45b59bfd') in 0.002626 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.917496 seconds.
+  path: Assets/BIN/newwit.asset
+  artifactKey: Guid(b4eb162a442d7bb4ea22b6f6e08cd0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BIN/newwit.asset using Guid(b4eb162a442d7bb4ea22b6f6e08cd0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '568c0cd101666c99e96cf75174924660') in 0.002192 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.612595 seconds.
+  path: Assets/BIN/newwit.asset
+  artifactKey: Guid(b4eb162a442d7bb4ea22b6f6e08cd0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BIN/newwit.asset using Guid(b4eb162a442d7bb4ea22b6f6e08cd0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b47d376631fad3faa4cbde22b123889c') in 0.002633 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.459760 seconds.
+  path: Assets/BIN/newwit.asset
+  artifactKey: Guid(b4eb162a442d7bb4ea22b6f6e08cd0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BIN/newwit.asset using Guid(b4eb162a442d7bb4ea22b6f6e08cd0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b42cd3807700abc98c24df62b951fc82') in 0.001723 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.598290 seconds.
+  path: Assets/BIN/newwit.asset
+  artifactKey: Guid(b4eb162a442d7bb4ea22b6f6e08cd0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BIN/newwit.asset using Guid(b4eb162a442d7bb4ea22b6f6e08cd0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50caa77db0437cf86576fe8ab824ad9f') in 0.001976 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 1.055769 seconds.
+  path: Assets/BIN/newwit.asset
+  artifactKey: Guid(b4eb162a442d7bb4ea22b6f6e08cd0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BIN/newwit.asset using Guid(b4eb162a442d7bb4ea22b6f6e08cd0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02db85f934bf5961d9b0550a77c8ca24') in 0.007515 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
